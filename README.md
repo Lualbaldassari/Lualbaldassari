@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 27 years old Peruvian who loves technology. <br>I am currently focused on full stack web development,digital transformation <br>and learn new technologies to exploit them. <br><br>This year, I rediscovered my passion for <br>programming and achieved a full stack web develper<br> certification, I want share with you my skills. Welcome!!
+I am 27 years old Peruvian who loves technology.I am currently focused on full stack web development,digital transformation and learn new technologies to exploit them. This year, I rediscovered my passion for <br>programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!
 
 
 # 💻 Tech Stack:
