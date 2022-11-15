@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently improving my skills on  **Javascript, React**
 
-- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, Sequelize**
 
 - 📫 How to reach me **lualbaldassari@gmail.com**
 
