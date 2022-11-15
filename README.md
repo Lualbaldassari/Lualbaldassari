@@ -12,7 +12,8 @@
 
 - 📫 How to reach me **lualbaldassari@gmail.com**
 
-
+- 👀 My latest project involving a PERN stack :  https://www.youtube.com/watch?v=jlsE9MMgl8o&t=4s
+  
 
 
 
