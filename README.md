@@ -1,5 +1,19 @@
+<img src="https://github.com/BryanCPineda/BryanCPineda/blob/main/svg.svg" alt="hello world"/>
+
+
+
 # 💫 About Me:
-I am 27 years old Peruvian who loves technology.I am currently focused on full stack web development,digital transformation and learn new technologies to exploit them. This year, I rediscovered my passion for <br>programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!!
+<h3 align="center">I am 27 years old Peruvian who loves technology.I am currently focused on full stack web development,digital transformation and learn new technologies to exploit them. This year, I rediscovered my passion for <br>programming and achieved a full stack web develper certification, I want share with you my skills. Welcome!! </h3>
+
+
+- 🌱 I’m currently improving my skills on  **Javascript, React**
+
+- 💬 Ask me about **JavaScript, React, Redux, HTML, CSS, Node JS, Express, PostgreSQL, OAuth, TypeScript, Sequelize**
+
+- 📫 How to reach me **lualbaldassari@gmail.com**
+
+
+
 
 
 # 💻 Tech Stack:
