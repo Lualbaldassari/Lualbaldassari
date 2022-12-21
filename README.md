@@ -25,6 +25,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lualbaldassari&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lualbaldassari&label=Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=lualbaldassari&label=Views&color=9&icon=5&pretty=false" />
+</a>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
